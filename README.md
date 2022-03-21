@@ -10,3 +10,5 @@ This repository will serve a _few_ different functions:
 ### Link
 
 The **link** to this repository can be found [**here**](https://neonlle.github.io/stats220/).
+
+![](https://c.tenor.com/HnQP9blJkbYAAAAd/disappearing-rr11.gif)
