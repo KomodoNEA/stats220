@@ -5,10 +5,12 @@
 #### Inspiration
 Since we are learning about coding in R, I decided to create this meme. It captures one of the purest feelings of success - running code without fail. In a field where syntax and logical errors can so easily stop you in your tracks, it is both refreshing and encouraging to get it right the first time.
 
-To be original, I have combined two relatively well known existing meme formats: "Gigachad" and "Two soyjaks pointing". "Gigachad" is primarily used to portray something in a positive light by using a picutre of a conventionally attractive man. E.g. "Average ". "Two soyjaks pointing" creates the effect of something being impressive. Together, they portray the impressiveness of having your code run on your first try.
+To be original, I have combined two relatively well known existing meme formats: "[Gigachad](https://knowyourmeme.com/memes/gigachad)" and "[Two Soyjaks Pointing](https://knowyourmeme.com/memes/two-soyjaks-pointing)".
+- "Gigachad" is primarily used to portray something in a positive light by using a picture of a conventionally attractive man.
+  - E.g. "Average Dark Souls Player".
+-  "Two Soyjaks Pointing" creates the effect of something being impressive.
 
-#### 
-
+Together, they portray the impressiveness of having your code run on your first try.
 
 ### Meme Creation Code
 ```markdown
